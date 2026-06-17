@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "21201203842",
+    "project_id": "smartclimate-c3631",
+    "storage_bucket": "smartclimate-c3631.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21201203842:android:c66fef6c3662966cf0fa9b",
+        "android_client_info": {
+          "package_name": "com.example.smartclimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21201203842-bj1tvi5cu9lbju38hm7hmplg91qb5cds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFiOB5SM0dNZcQ8lk3bzagxymZH1SJKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21201203842-bj1tvi5cu9lbju38hm7hmplg91qb5cds.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21201203842-ut69u9jgca1hdrb4rugv21up27jrmdc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartclimate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
